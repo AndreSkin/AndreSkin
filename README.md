@@ -1,4 +1,4 @@
-Hi, I’m AndreSkin, Computer Science student at the University of Bologna.
+Hi, I’m AndreSkin, Computer Science graduate at the University of Bologna.
 
 
 <!---
